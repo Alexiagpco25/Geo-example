@@ -1,0 +1,7 @@
+{
+  "name": "geo-example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
